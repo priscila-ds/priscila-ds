@@ -1,5 +1,3 @@
-# Olá, eu sou a Priscila!
-
 <img src="https://assets-persist.lovart.ai/agent_images/be3819ba-09aa-4599-a5f1-1286eb49862c.jpg" alt="Banner Priscila" width="100%">
 
 ## Sobre Mim
