@@ -1,4 +1,18 @@
+<!-- Banner principal -->
 <img src="https://assets-persist.lovart.ai/agent_images/be3819ba-09aa-4599-a5f1-1286eb49862c.jpg" alt="Banner Priscila" width="100%">
+
+<p align="center">
+  <b>✨ Priscila Ferreira — QA Engineer ✨</b>  
+  <br/>
+  <em>Sophia.app: Conectando Propósitos</em>  
+  <br/><br/>
+  <a href="https://github.com/priscila-ds/Sophia">
+    <img src="https://img.shields.io/badge/Sophia.app-Feminino%20%7C%20Tech%20%7C%20Comunidade-A020F0?style=for-the-badge&logo=react&logoColor=white" alt="Sophia.app Badge"/>
+  </a>
+</p>
+
+
+---
 
 ## Sobre Mim
 
@@ -9,22 +23,23 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 
 ---
 
+<!-- Tecnologias -->
 <img src="https://assets-persist.lovart.ai/agent_images/a06b3085-684c-439e-8aef-454d4e8658c7.jpg" alt="Tecnologias e Ferramentas" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/-Playwright-45ba4b?logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-303030?logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=3776AB" alt="Python" />
   <br/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-181717?logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-MySQL-00000F?logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Jira-0A192F?logo=jira&logoColor=0052CC" alt="Jira" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Grafana-000000?logo=grafana&logoColor=F46800" alt="Grafana" />
 </div>
 
 ---
@@ -32,12 +47,12 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=transparent&custom_title=Status" alt="GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=tokyonight&custom_title=Status%20do%20GitHub" alt="GitHub Status" />
 </div>
-
 
 ---
 
+<!-- Projetos -->
 <img src="https://assets-persist.lovart.ai/agent_images/0a19b1c5-19f3-4b36-b9a8-23c8af4aa33c.jpg" alt="Projetos" width="100%">
 
 - [Automação E2E com Cypress](https://github.com/priscila-ds/projeto-cypress)  
@@ -49,7 +64,7 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 ## Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/priscila-siqueira-qae-ctfl/)  
-- priscila.siqueira.ca@gmail.com  
+- 📧 priscila.siqueira.ca@gmail.com  
 - [GitHub](https://github.com/priscila-ds)  
 
 ---
@@ -58,3 +73,5 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
   <br/>
   <em>Sempre aprendendo e evoluindo para entregar software com qualidade e confiança!</em>
 </div>
+
+
