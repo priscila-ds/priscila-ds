@@ -44,14 +44,6 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=tokyonight&custom_title=Status%20do%20GitHub" alt="GitHub Status" />
-</div>
-
----
-
 <!-- Projetos -->
 <img src="https://assets-persist.lovart.ai/agent_images/0a19b1c5-19f3-4b36-b9a8-23c8af4aa33c.jpg" alt="Projetos" width="100%">
 
