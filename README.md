@@ -1,31 +1,14 @@
-<!-- Banner principal -->
-<img src="https://assets-persist.lovart.ai/agent_images/be3819ba-09aa-4599-a5f1-1286eb49862c.jpg" alt="Banner Priscila" width="100%">
-
-<p align="center">
-  <b>✨ Priscila Ferreira — QA Engineer ✨</b>  
-  <br/>
-  <em>Sophia.app: Conectando Propósitos</em>  
-  <br/><br/>
-  <a href="https://github.com/priscila-ds/Sophia">
-    <img src="https://img.shields.io/badge/Sophia.app-Feminino%20%7C%20Tech%20%7C%20Comunidade-A020F0?style=for-the-badge&logo=react&logoColor=white" alt="Sophia.app Badge"/>
-  </a>
-</p>
-
-
----
 
 ## Sobre Mim
 
 **QA Engineer | Test Automation | iGaming & Fintech**  
 
 Sou apaixonada por qualidade de software, automação de testes e integrações de sistemas complexos.  
-Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGaming e pipelines CI/CD**.
+Trabalho principalmente com **Cypress, IA, APIs, integrações iGaming e pipelines CI/CD**.
 
 ---
 
 <!-- Tecnologias -->
-<img src="https://assets-persist.lovart.ai/agent_images/a06b3085-684c-439e-8aef-454d4e8658c7.jpg" alt="Tecnologias e Ferramentas" width="100%">
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
@@ -56,8 +39,7 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 ## Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/priscila-siqueira-qae-ctfl/)  
-- 📧 priscila.siqueira.ca@gmail.com  
-- [GitHub](https://github.com/priscila-ds)  
+- 📧 priscila.siqueira.ca@gmail.com   
 
 ---
 
