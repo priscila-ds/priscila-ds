@@ -9,7 +9,8 @@ Atuo com estratégia de testes ponta a ponta, desde a definição até a execuç
 Ajudo times de engenharia a reduzir o Time-to-Market aplicando estratégias baseadas na Pirâmide de Testes e Shift-Left Testing. 
 Experiência sólida em transformar requisitos complexos em suítes automatizadas robustas (Cypress/API) e validação de aplicações de IA com foco em **Evals e Guardrails.**.
 
-<img width="950" height="622" alt="download (2)" src="https://github.com/user-attachments/assets/edfe8164-8ec3-45c4-b518-ae75dd3b65eb" />
+<img width="150" height="150" alt="code girl" src="https://github.com/user-attachments/assets/e0ea32c7-a741-41d8-b84d-7e04200d4a65" />
+
 
 
 ---
