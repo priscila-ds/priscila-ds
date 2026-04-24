@@ -1,10 +1,29 @@
 
-## Sobre Mim
+# Priscila Siqueira
 
-**QA Engineer | Test Automation | iGaming & Fintech**  
+📍 Recife, Brasil  
+QA Engineer | Test Automation Specialist | Quality Advocate | IA First 
 
-Sou apaixonada por qualidade de software, automação de testes e integrações de sistemas complexos.  
-Trabalho principalmente com **Cypress, IA, APIs, integrações iGaming e pipelines CI/CD**.
+Sou especialista em Qualidade de Software com mais de 10 anos de experiência, focada em automação de testes, validação de APIs e garantia de qualidade em arquiteturas modernas **(microserviços)**.
+Atuo com estratégia de testes ponta a ponta, desde a definição até a execução em **pipelines CI/CD**.
+Ajudo times de engenharia a reduzir o Time-to-Market aplicando estratégias baseadas na Pirâmide de Testes e Shift-Left Testing. 
+Experiência sólida em transformar requisitos complexos em suítes automatizadas robustas (Cypress/API) e validação de aplicações de IA com foco em **Evals e Guardrails.**.
+
+---
+
+## Tech Stack & Skills
+
+![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![BDD](https://img.shields.io/badge/-BDD%2FGherkin-blue?style=for-the-badge)
+
+✔ Testes E2E (UI)  
+✔ Testes de API (REST/GraphQL)  
+✔ CI/CD e automação de pipelines  
+✔ Testes de performance (k6)  
+✔ Estratégia de testes em microserviços  
 
 ---
 
@@ -27,19 +46,29 @@ Trabalho principalmente com **Cypress, IA, APIs, integrações iGaming e pipelin
 
 ---
 
-<!-- Projetos -->
-<img src="https://assets-persist.lovart.ai/agent_images/0a19b1c5-19f3-4b36-b9a8-23c8af4aa33c.jpg" alt="Projetos" width="100%">
+## GitHub Stats
 
-- [Automação E2E com Cypress](https://github.com/priscila-ds/projeto-cypress)  
-- [Integração iGaming API](https://github.com/priscila-ds/projeto-igaming)  
-- [Testes de API com Postman + Newman](https://github.com/priscila-ds/projeto-api-tests)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=priscila-ds&theme=radical)
 
 ---
 
-## Onde me encontrar
+## 📌 Projetos em Destaque
 
-- [LinkedIn](https://www.linkedin.com/in/priscila-siqueira-qae-ctfl/)  
-- 📧 priscila.siqueira.ca@gmail.com   
+🔹 [cypress-do-zero-a-nuvem](https://github.com/priscila-ds/cypress-do-zero-a-nuvem)
+🔹 [api-tests](https://github.com/priscila-ds/api-tests)
+🔹 [devsecops-case-api](https://github.com/priscila-ds/devsecops-case-api)
+🔹 [Testes de Performance com k6](https://github.com/priscila-ds/Testes-de-Performance-com-k6)
+🔹 [guardiao-kids](https://github.com/priscila-ds/guardiao-kids)
+
+
+---
+
+## Contato
+
+LinkedIn: ([Priscila Ferreira](https://www.linkedin.com/in/priscila-siqueira-qae-ctfl/))  
+
 
 ---
 
